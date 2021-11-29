@@ -1,0 +1,2 @@
+--color-red: #E81200
+--color-blue: #2670BB
