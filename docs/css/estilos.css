@@ -291,7 +291,7 @@
 	
 	}
 }
-/* 
+ 
 .content-cabecera {
 	width: 100%;
 	max-width: 400px;
@@ -331,7 +331,7 @@
 	background-size: cover;
 	position: fixed;
 }
-/*
+
 .background2{
 	top: 800px;
 	background: url(../images/fondo2.jpg) no-repeat center center ;
@@ -357,7 +357,7 @@
 	text-shadow: 4px 4px 3px white;
 }
 
-___________________________________content-presentacion______________________________
+
 .content-presentacion{
 	padding: 10px;
 	max-width: 950px;
@@ -412,7 +412,6 @@ ___________________________________content-presentacion_________________________
 	font-weight: 900px;
 	margin-top: 30px;
 }
-____________________________________________________Content Historia___________________________________________________
 
 #perfil{
 	padding-top: 80px;
@@ -439,7 +438,6 @@ ____________________________________________________Content Historia____________
 
 
 
-______________________________________________________Boton Leer Más___________________________________________________
 .button-leer{
 	color: var(--color-blue);
 	width: 200px;
@@ -458,7 +456,6 @@ ______________________________________________________Boton Leer Más___________
 	border-bottom: solid;
 }
 
-______________________________________________________Fotos de historia___________________________________________________
 
 .content-historia__galeria{
 	margin: 50px;
@@ -469,7 +466,6 @@ ______________________________________________________Fotos de historia_________
 .row-reverse{
 	flex-direction: row-reverse;
 }
-_______________________Foto de 2015__________________
 .img-historia{
 	min-width: 300px;
 	min-height: 300px;	
@@ -501,4 +497,4 @@ _______________________Foto de 2015__________________
 
 
 }
- */
+
