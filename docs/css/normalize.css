@@ -23,7 +23,6 @@ html {
 
 body {
   overflow-x: all;
-  min-width: 300px;
   margin: 0;
   padding: 0;
   background-color: var(--color-blue);
